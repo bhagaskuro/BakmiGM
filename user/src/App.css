@@ -1,0 +1,13 @@
+.store {
+    color: #ae3920;
+    text-decoration: none;
+}
+
+.footer-bg{
+    background-image: url("https://www.bakmigm.com/images/material/bg-footer.png");
+}
+
+
+.author{
+    position: relative; 
+}

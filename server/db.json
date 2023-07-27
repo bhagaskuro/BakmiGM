@@ -1,0 +1,247 @@
+{
+  "cuisines": [
+    {
+      "id": 1,
+      "name": "Bakmi Special GM",
+      "description": "Chicken Noodle with Special GM Mushroom Sauce",
+      "price": null,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu/cover_w480_h480_img-menu_0006s_0024_bakmi-spc-gm.png",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Bakmi Special GM Bakso",
+      "description": "Chicken Noodle with Special GM Mushroom Sauce & Beef Balls",
+      "price": null,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu/cover_w255_h255_tw478_th478_x12_y10_bakmi_spc_gm_bakso.jpg",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Bakmi Ayam Saus Thai",
+      "description": "Noodle topped with Fried Chicken Fillet served with a Sweet and Sour Thai Sauce ",
+      "price": null,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu/cover_w480_h480_img-menu_0006s_0005_bakmi-ayam-saus-thai.png",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Bakmi Ayam Panggang Char",
+      "description": "Bakmi dipadukan dengan ayam panggang dan saus char, disajikan dengan kuah gurih khas GM.",
+      "price": null,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu/cover_w480_h480_tw1917_th1916_x119_y112_bakmi-ayam-char.jpg",
+      "authorId": 2,
+      "categoryId": 4
+    },
+    {
+      "id": 5,
+      "name": "Yi Fu Mie Ni Katsu Asam Manis",
+      "description": "Bakmi digoreng kering disajikan dengan ayam katsu dan saus asam manis.",
+      "price": null,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu/cover_w480_h480_img-menu_0006s_0001_yi-fu-mie-ni-katsu-asam-manis.png",
+      "authorId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "name": "Nasi Ayam GM Pangsit Goreng",
+      "description": "Rice with Chicken in Special GM Mushroom Sauce & Fried Wonton",
+      "price": 20000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu-crop/cover_w480_h480_img-menu_0005s_0015_nasi-ayam-gm-pangsit-goreng.png",
+      "authorId": 1,
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "name": "Nasi Ayam Lada Cha Cha",
+      "description": "Rice topped with Black Pepper Chicken and Green Onions",
+      "price": 12000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu-crop/cover_w480_h480_img-menu_0005s_0013_nasi-ayam-lada-chacha.png",
+      "authorId": 1,
+      "categoryId": 2
+    },
+    {
+      "id": 8,
+      "name": "Nasi Goreng",
+      "description": "Fried Rice",
+      "price": 20000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu-crop/cover_w480_h480_img-menu_0005s_0012_nasi-goreng.png",
+      "authorId": 1,
+      "categoryId": 2
+    },
+    {
+      "id": 9,
+      "name": "Nasi Goreng Teri Small",
+      "description": "Anchovy Fried Rice (Small)",
+      "price": 20000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu-crop/cover_w480_h480_img-menu_0005s_0009_nasi-goreng-teri-small.png",
+      "authorId": 1,
+      "categoryId": 2
+    },
+    {
+      "id": 10,
+      "name": "Nasi Goreng Matah Reguler",
+      "description": "Sambal Matah Fried Rice (Regular)",
+      "price": 12000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu-crop/cover_w480_h480_img-menu_0005s_0021_nasi-goreng-matah.png",
+      "authorId": 1,
+      "categoryId": 2
+    },
+    {
+      "id": 11,
+      "name": "Bihun Special GM",
+      "description": "Chicken Vermicelli with Special GM Mushroom Sauce",
+      "price": 20000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu-crop/cover_w480_h480_img-menu_0002s_0018_bihun-spc-gm.png",
+      "authorId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": 12,
+      "name": "Bihun Pangsit Rebus",
+      "description": "Chicken Vermicelli with Wonton",
+      "price": 20000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu-crop/cover_w480_h480_img-menu_0002s_0011_bihun-ayam-pangsit-rebus.png",
+      "authorId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": 13,
+      "name": "Bihun Special GM Pangsit Goreng",
+      "description": "Chicken Vermicelli with Special GM Mushroom Sauce & Fried Wonton  ",
+      "price": 12000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu-crop/cover_w480_h480_img-menu_0002s_0015_bihun-spc-gm-pangsit-goreng.png",
+      "authorId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": 14,
+      "name": "Bihun Pangsit Goreng",
+      "description": "Chicken Noodle with Fried Wonton",
+      "price": 20000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu-crop/cover_w480_h480_img-menu_0002s_0010_bihun-ayam-pangsit-goreng.png",
+      "authorId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": 15,
+      "name": "Bihun Kuah Cha Cha",
+      "description": "Vermicelli Soup topped with Minced Black Pepper Chicken and Bean Sprouts",
+      "price": 20000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu/cover_w480_h480_bihun-kuah-cha-cha.jpg",
+      "authorId": 1,
+      "categoryId": 3
+    },
+    {
+      "id": 16,
+      "name": "Shirataki Special GM Pangsit Udang",
+      "description": "Chicken Shirataki with Special GM Mushroom Sauce & Shrimp Wonton",
+      "price": 12000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu-crop/cover_w480_h480_img-menu_0004s_0013_shirataki-spc-gm-suikiaw.png",
+      "authorId": 1,
+      "categoryId": 4
+    },
+    {
+      "id": 17,
+      "name": "Shirataki Pangsit Rebus",
+      "description": "Chicken Shirataki with Wonton",
+      "price": 20000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu-crop/cover_w480_h480_img-menu_0004s_0010_shirataki-ayam-pangsit-rebus.png",
+      "authorId": 1,
+      "categoryId": 4
+    },
+    {
+      "id": 18,
+      "name": "Ayam Goreng",
+      "description": "Fried Chicken",
+      "price": 20000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu/cover_w480_h480_88-ayam-goreng.png",
+      "authorId": 1,
+      "categoryId": 5
+    },
+    {
+      "id": 19,
+      "name": "Katsu Asam Manis",
+      "description": "Chicken Katsu with Sweet and Sour Sauce",
+      "price": 20000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu/cover_w480_h480_katsu-asam-manis.jpg",
+      "authorId": 1,
+      "categoryId": 5
+    },
+    {
+      "id": 20,
+      "name": "Fu Yung Hai",
+      "description": "Egg Foo Yoong",
+      "price": 12000,
+      "imgUrl": "https://www.bakmigm.com/cfind/source/thumb/images/menu/cover_w480_h480_94-fu-yung-hai.png",
+      "authorId": 1,
+      "categoryId": 5
+    }
+  ],
+  "ingredient": [
+    {
+      "id": 1,
+      "name": "Nasi"
+    },
+    {
+      "id": 2,
+      "name": "Mie"
+    },
+    {
+      "id": 3,
+      "name": "Bihun"
+    },
+    {
+      "id": 4,
+      "name": "Shirataki"
+    },
+    {
+      "id": 5,
+      "name": "Ayam"
+    },
+    {
+      "id": 6,
+      "name": "Beef"
+    },
+    {
+      "id": 7,
+      "name": "Sayur"
+    },
+    {
+      "id": 8,
+      "name": "pangsit"
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "email": "admin1@mail.com",
+      "password": "aaaaa"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Noodle"
+    },
+    {
+      "id": 2,
+      "name": "Rice"
+    },
+    {
+      "id": 3,
+      "name": "Vermicelli"
+    },
+    {
+      "id": 4,
+      "name": "Shirataki"
+    },
+    {
+      "id": 5,
+      "name": "Ala carte"
+    }
+  ]
+}
